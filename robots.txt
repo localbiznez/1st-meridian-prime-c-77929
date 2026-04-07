@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://localbiznez.github.io/1st-meridian-prime-c-77929/sitemap.xml
+Sitemap: https://1st-meridian-prime-c-77929.pages.dev/sitemap.xml
